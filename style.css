@@ -1,0 +1,18 @@
+body { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fe972a; /* Set the background to orange */
+    color: #7202f8;
+    font-family: Arial, sans-serif;
+}
+
+canvas {
+    border: 5px solid #8dc8cd; /* Thicker light blue border */
+    background-color: #815789; /* Set the game square background to light grey */
+    margin-top: 20px;
+}
+
+.game-info {
+    margin-bottom: 10px;
+}
